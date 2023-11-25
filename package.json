@@ -1,0 +1,14 @@
+{
+  "name": "rekordbox-playlists-to-m3u",
+  "version": "1.0.0",
+  "description": "This project is a CLI-tool that will convert your Rekordbox XML-export to individual M3U-files that you can import to for example Traktor",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "author": "Robert S.",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
