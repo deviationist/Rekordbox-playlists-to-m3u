@@ -1,2 +1,4 @@
+*.xml
 Playlists
 node_modules
+.env
